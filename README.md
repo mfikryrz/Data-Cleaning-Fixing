@@ -22,7 +22,7 @@ As shown in the image, the information data appears to be unstructured and disor
 Please note that the image provided has been intentionally blurred to protect sensitive information, particularly email data. Data privacy and security are essential considerations in handling personal and sensitive information.
 
 ## File after clean up
-![Alt Image after clean up](image_edited/after clean up.jpg)
+![Alt Image before clean up](image_edited/after clean up.jpg)
 After applying data cleaning using pandas, the results are evident in the image provided. The information data now appears much neater and more organized compared to its previous state. By using pandas' powerful data manipulation capabilities, we were able to transform the raw and messy data into a structured and usable format.
 
 Please note that the image provided has been intentionally blurred to ensure the privacy and protection of sensitive information, specifically the email data. As data custodians, it is our responsibility to handle personal and sensitive data with utmost care and adhere to data privacy regulations.
