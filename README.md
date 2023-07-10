@@ -10,3 +10,11 @@ Furthermore, I performed data validation to ensure the accuracy and consistency 
 Throughout the process, I maintained data integrity and privacy by adhering to strict data protection protocols. The cleaned and fixed dataset served as a solid foundation for subsequent data analysis and modeling, enabling meaningful insights and informed decision-making for Torche Data Company.
 
 Note: The specific details and examples mentioned above are fictional and used solely for the purpose of providing an illustrative description.
+
+# First Data Cleaning Discussion
+
+In the First Data Cleaning File Discussion, the main objective is to address the issue of dirty data by performing necessary cleaning procedures. The focus is on splitting student information based on the courses they are enrolled in, ensuring accurate categorization. Additionally, an important aspect is to match student registration data with their evaluation data. By doing so, the aim is to enhance the accuracy and reliability of the data cleaning process. This comprehensive approach ensures that the resulting dataset is refined, organized, and suitable for further analysis and decision-making.
+
+## File before clean up
+![Before Clean Up](https://drive.google.com/file/d/1XLJts-p00Ba1wocvlKVg4j6KpRI1S6iP/view?usp=sharing)
+StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
