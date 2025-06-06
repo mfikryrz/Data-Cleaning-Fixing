@@ -63,7 +63,6 @@ Kontribusi sangat terbuka! Silakan fork repo ini dan buat pull request jika Anda
 Jika ada pertanyaan atau kolaborasi, silakan hubungi:
 
 **Muhammad Fikry Rizal**  
-✉️ [Email Placeholder]  
-🌐 [LinkedIn Placeholder]  
+🌐 [[LinkedIn Placeholder] ](https://www.linkedin.com/in/muhfikry-rizal/) 
 
 ---
